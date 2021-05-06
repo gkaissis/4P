@@ -17,7 +17,7 @@ Flask-Sockets ==0.2.1
 requests ==2.22.0
 Flask-SQLAlchemy ==2.4.4
 Flask-Migrate ==2.5.3
-Flask-Cors ==3.0.7
+Flask-Cors ==3.0.9
 Flask-Executor ==0.9.3
 Flask-Login ==0.5.0
 sqlalchemy_mixins ==1.2.1
